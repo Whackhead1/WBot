@@ -1,0 +1,3 @@
+https://discordjs.guide/creating-your-bot/event-handling.html#individual-event-files
+
+I followed guide up until this point
